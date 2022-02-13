@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/mySite/static/css/main.d1c0f308.css",
-    "main.js": "/mySite/static/js/main.01ed8db6.js",
-    "static/js/787.2746eaee.chunk.js": "/mySite/static/js/787.2746eaee.chunk.js",
-    "static/media/tulips.gif": "/mySite/static/media/tulips.fa380d4108e81a535433.gif",
-    "index.html": "/mySite/index.html",
-    "main.d1c0f308.css.map": "/mySite/static/css/main.d1c0f308.css.map",
-    "main.01ed8db6.js.map": "/mySite/static/js/main.01ed8db6.js.map",
-    "787.2746eaee.chunk.js.map": "/mySite/static/js/787.2746eaee.chunk.js.map"
+    "main.css": "/valen/static/css/main.d1c0f308.css",
+    "main.js": "/valen/static/js/main.4ef6ba9e.js",
+    "static/js/787.2746eaee.chunk.js": "/valen/static/js/787.2746eaee.chunk.js",
+    "static/media/tulips.gif": "/valen/static/media/tulips.fa380d4108e81a535433.gif",
+    "index.html": "/valen/index.html",
+    "main.d1c0f308.css.map": "/valen/static/css/main.d1c0f308.css.map",
+    "main.4ef6ba9e.js.map": "/valen/static/js/main.4ef6ba9e.js.map",
+    "787.2746eaee.chunk.js.map": "/valen/static/js/787.2746eaee.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d1c0f308.css",
-    "static/js/main.01ed8db6.js"
+    "static/js/main.4ef6ba9e.js"
   ]
 }
