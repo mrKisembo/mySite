@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/mySite/static/css/main.3c46042e.css",
-    "main.js": "/mySite/static/js/main.7e04833c.js",
-    "static/js/787.2746eaee.chunk.js": "/mySite/static/js/787.2746eaee.chunk.js",
-    "static/media/smiley.png": "/mySite/static/media/smiley.075b360326eb15194e4c.png",
-    "index.html": "/mySite/index.html",
-    "main.3c46042e.css.map": "/mySite/static/css/main.3c46042e.css.map",
-    "main.7e04833c.js.map": "/mySite/static/js/main.7e04833c.js.map",
-    "787.2746eaee.chunk.js.map": "/mySite/static/js/787.2746eaee.chunk.js.map"
+    "main.css": "/valen/static/css/main.3c46042e.css",
+    "main.js": "/valen/static/js/main.207e1e0d.js",
+    "static/js/787.9e1474e5.chunk.js": "/valen/static/js/787.9e1474e5.chunk.js",
+    "static/media/smiley.png": "/valen/static/media/smiley.075b360326eb15194e4c.png",
+    "index.html": "/valen/index.html",
+    "main.3c46042e.css.map": "/valen/static/css/main.3c46042e.css.map",
+    "main.207e1e0d.js.map": "/valen/static/js/main.207e1e0d.js.map",
+    "787.9e1474e5.chunk.js.map": "/valen/static/js/787.9e1474e5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3c46042e.css",
-    "static/js/main.7e04833c.js"
+    "static/js/main.207e1e0d.js"
   ]
 }
